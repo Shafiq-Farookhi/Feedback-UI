@@ -1,0 +1,10 @@
+{
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.semanticTokenColorCustomizations": {
+
+    },
+    "screencastMode.mouseIndicatorColor": "#FF0000",
+    "markdown-preview-enhanced.pandocArguments": [
+        
+    ]
+}
