@@ -25,7 +25,7 @@ export const FeedbackProvider = ({ children }) => {
     const addFeedback = (newFeedback) => {
         newFeedback.id = uuid4()
         setFeedback([newFeedback, ...feedback])
-      }
+    }
     
 
     const deleteFeedback = (id) => {
